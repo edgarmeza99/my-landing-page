@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Cartograph CF";
+  src: local("Cartograph CF Extra Light Italic"),
+    local("Cartograph-CF-Extra-Light-Italic"),
+    url("CartographCF-ExtraLightItalic.woff2") format("woff2"),
+    url("CartographCF-ExtraLightItalic.woff") format("woff"),
+    url("CartographCF-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}

@@ -6,5 +6,10 @@
   "frontendDeveloper": "Desarrollador Frontend",
   "backendDeveloper": "Desarrollador Backend",
   "lenguages": "Idiomas que hablo",
-  "devTools": "Herramientas de Desarrollo"
+  "devTools": "Herramientas de Desarrollo",
+  "footer": {
+    "phrase": "Mientras tengas siempre un espíritu explorador, encontrarás la salida. Esa es mi esperanza.",
+    "invitation": "¿Interesado en trabajar juntos? Deberíamos reunirnos para charlar.",
+    "copyright": "Creado por mi © "
+  }
 }

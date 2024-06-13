@@ -20,24 +20,28 @@ const SocialMedia = () => {
       <div className="grid m-1 mt-3 justify-content-center gap-3 mb-4">
         <Button
           rounded
+          outlined
           severity="primary"
           icon="pi pi-linkedin"
           onClick={() => handleClick("linkedin")}
         ></Button>
         <Button
           rounded
+          outlined
           severity="secondary"
           icon="pi pi-github"
           onClick={() => handleClick("github")}
         ></Button>
         <Button
           rounded
+          outlined
           severity="danger"
           icon="pi pi-instagram"
           onClick={() => handleClick("instagram")}
         ></Button>
         <Button
           rounded
+          outlined
           severity="success"
           icon="pi pi-whatsapp"
           onClick={() => handleClick("whatsapp")}

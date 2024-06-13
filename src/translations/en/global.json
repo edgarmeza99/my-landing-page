@@ -6,5 +6,10 @@
   "frontendDeveloper": "Frontend Developer",
   "backendDeveloper": "Backend Developer",
   "lenguages": "Languages ​​I speak",
-  "devTools": "Dev Tools"
+  "devTools": "Dev Tools",
+  "footer": {
+    "phrase": "As long as you always have an exploring spirit, you will find the way out. That's my hope.",
+    "invitation": "Interested in working together? We should meet to talk. ",
+    "copyright": "Creado por me © "
+  }
 }
